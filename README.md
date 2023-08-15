@@ -5,4 +5,5 @@ Firstly installed all the package by using command
 
 After installing the node_modules type 
 >>   npm run dev
+
 to start the project Simple :-)
